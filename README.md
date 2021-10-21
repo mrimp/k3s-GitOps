@@ -26,6 +26,25 @@ _... managed with Flux and Renovate_ :robot:
 
 </div>
 
+<div align="center">
+
+## :wrench:&nbsp; Workloads (by namespace)
+
+* [cert-manager](cert-manager/)
+* [default](default/)
+* [flux-system-extra](flux-system-extra/)
+* [kube-system](kube-system/)
+* [logs](logs/)
+* [monitoring](monitoring/)
+* [rook-ceph](rook-ceph/)
+* [system-upgrade](system-upgrade/)
+
+## :robot:&nbsp; Automation
+
+* [Renovate](https://github.com/renovatebot/renovate) keeps workloads up-to-date by scanning the repo and opening pull requests when it detects a new container image update or a new helm chart
+- [System Upgrade Controller](https://github.com/rancher/system-upgrade-controller) automatically upgrades k3s to new versions as they are released
+
+
 ---
 
 ## :book:&nbsp; Overview
