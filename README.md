@@ -26,8 +26,6 @@ _... managed with Flux and Renovate_ :robot:
 
 </div>
 
-<div align="center">
-
 ## :wrench:&nbsp; Workloads (by namespace)
 
 * [cert-manager](cert-manager/)
