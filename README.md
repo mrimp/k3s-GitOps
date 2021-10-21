@@ -28,10 +28,9 @@ _... managed with Flux and Renovate_ :robot:
 
 ## :wrench:&nbsp; Workloads (by namespace)
 
-* [cert-manager](cert-manager/)
-* [default](default/)
-* [flux-system-extra](flux-system-extra/)
-* [kube-system](kube-system/)
+* [cert-manager](https://github.com/jetstack/cert-manager)
+* [flux-system-extra](https://github.com/fluxcd/flux2/)
+* [kube-system](https://kubernetes.io/docs/concepts/overview/components/)
 * [logs](logs/)
 * [monitoring](monitoring/)
 * [rook-ceph](rook-ceph/)
