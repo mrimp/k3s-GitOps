@@ -1,0 +1,31 @@
+kind: ENC[AES256_GCM,data:9/nFpoq9,iv:5aj/MDeF9dz/izu0qLFH0K/ekC7qO8i3OUwKfbnnOwM=,tag:y+/q2lc/XmYCY+OjtIgb2g==,type:str]
+ansible_user: ENC[AES256_GCM,data:CaDJbfw=,iv:7jIPTX6+xJ0qUYIvMe6wsknPfRPhFdoKa83MGAvxqXM=,tag:FKnQVvZnDJDIlZkp59zDiw==,type:str]
+ansible_become_pass: ENC[AES256_GCM,data:59qktyTw45A=,iv:9jRK1LfuFGw/xI4Iw7GPDPMO0W2LF+Zpdw70oew/pTM=,tag:8/ycW93ter3D0lIFwROPpg==,type:str]
+sops:
+    attention: This section contains key material that should only be modified with
+        extra care. See `sops -h`.
+    version: '1.18'
+    unencrypted_suffix: _unencrypted
+    pgp:
+    -   fp: 5ED5AC4897B3E2EB
+        enc: |
+            -----BEGIN PGP MESSAGE-----
+
+            hQIMAyH4Jv2F6yUtAQ/+J8Iae+jupwc/3PSmDSyMM2PxcNTzcszKmDNBFkqlGWSt
+            fZhWGe3KeDy0seJVeuyxaPcuvVBeEC7iVzaY0DpsMfFTG6luda4PJJL8SSDcOalX
+            qjZ0+YpNLFlHVcLrTSK/ueQNwoudsoaFdof/fn+kylYQ13txD5vKdhX7SVuDsDVk
+            KS71eRtK5K9RhcjZJ/Juy2U7QG8Qp+nps9ULqpyksQW29dqYjHcEXgjWuHHAkirH
+            ljCAI9wo0+yzxf7RTY8Qtdea5YDS7kGurJXJKf4d0X289/0ay4iL38iUe+K9LyDr
+            jHd/XyIgZQF7w+SjXb5tK0o/jN3IU++dSYcwSPNPpMaGBmmE4iqjxZo/XQo1lKqv
+            JBBth4EcmwXFKiQT+iw4v/1qb1zpG5FLeM5SPp2lOJxa7NbBndurQIm2PKnq5rcZ
+            EtC0vk6WHIH95NVM5KgN49vBKYnImX7o3TRdytzB5a+c4Q8FkMCdZqMjViMcMPIm
+            rHfNifNxeER/Q687t0QF6hXiINqnyB4NqhNsqNvQS7VLHPptPbfvixFGL5fMvhws
+            Kp20k4Ug6p2E4L7+L4nXVq910//f++urYasEM5SLJj9OunyCln3MHLTH1DxrkDBZ
+            K7gXwuCAnuhd7+8g7C3wI5uK7idjDa+GOdamW8Jse1vF8y/ZWJR28ZgtM13MCw7S
+            XgGAKzW2Hfj4Rq22T2zjy8/HzE6Dy/URDp21C7Bj3/LUjIQVj7KOso8Kjoh2nEx1
+            j5qKfiKp4e0KXI7RN3LJPS3XlIVYSQDI4/GAazg0LBwyIOy8zZg90nXL2B4R714=
+            =cCew
+            -----END PGP MESSAGE-----
+        created_at: '2021-10-21T00:28:50Z'
+    lastmodified: '2021-10-21T00:28:50Z'
+    mac: ENC[AES256_GCM,data:+0J0Ro5rD5Y3qwQy4/YbZ6PitzhO13pdVxTSW8EjqGSsOokVlJdmtCYOcg0FbnFg9a74GUZ6oRRr/CLoxWqFQDmsYc8CFV4ktPk9eVRjK0/slMLFGI4vQ4KvcY+XJnEpwZzmwgre6fE4MWeoPnMo4MkbgyLD4PebsNWbhEXjmis=,iv:ApaYy4rYN5IARApvsBZkjb7YL7DolQGp76i5QZ/iQVg=,tag:ttUBSjbaZyY7zB/F+qMlzQ==,type:str]

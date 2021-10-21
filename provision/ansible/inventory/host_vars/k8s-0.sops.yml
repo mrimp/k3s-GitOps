@@ -1,0 +1,31 @@
+kind: ENC[AES256_GCM,data:et+89KsH,iv:yc8sCLjANxZh4LVG/ReerqvthGONEe9fV6MF5kfVhco=,tag:JGYN3+ER8/kXWAmu5qSZaw==,type:str]
+ansible_user: ENC[AES256_GCM,data:u0UjyPM=,iv:z2yY3vPpTNinppx2q4hVfcpzvgfsInWT64NtzsSnmzk=,tag:85KqaIswKqjwGxXUTrNtnQ==,type:str]
+ansible_become_pass: ENC[AES256_GCM,data:lVQy2kOcAxk=,iv:PURVmiBmFkJVSmI9OsOa6/ZtlZHxR3r4lbIazLVpspY=,tag:gz6opVcynG+kN3WYm3865A==,type:str]
+sops:
+    attention: This section contains key material that should only be modified with
+        extra care. See `sops -h`.
+    version: '1.18'
+    unencrypted_suffix: _unencrypted
+    pgp:
+    -   fp: 5ED5AC4897B3E2EB
+        enc: |
+            -----BEGIN PGP MESSAGE-----
+
+            hQIMAyH4Jv2F6yUtAQ//WN8UsKpcZM0ZemlCzlO4uS5AIHFnIltzuLA6N/zD9SMK
+            pQeceWQf5JeWfxvUWYF+UUvtx5pjFCkN/RuprVRb+aJdQlOxR6XoCAa3GHhbDeT5
+            92/3qQcuTrHMKy3ypqkqn8KQuzDbTOSGzgLmLLOSId48lK46omEEFo7rr80JXzu4
+            6HSQZYNxu2iSJ6SswhhHBmpr24V8987sympTbUPKhMr9JGM0vp/G0yFwmwW+/FCb
+            8zwKdsnivkosXII4sWi1j/UC8sVPlytu0Wh9SBSG7JX0vkGbXhucXngIN2cDLm+v
+            hID37N/bYxAeUkcd5dlTNkKShCPAs/mNKYja8Gl3NbttSV4y2dscRvoBOnd+bnHV
+            Csu8laOPbIsyblcQWcU3L0YO3xD76EG2eSdTwFLLHkRfI0THOKzehvPDaVIjwGzo
+            YQZGGeQ3jIlDMhhzIhGSWod40nO1HfSbH69w7KIQYfAyhHowcPsm8z2kszDhtanO
+            4PAj6tCGhR7dXVKiMRSj+YiBHnF7Rn1g3sH9E4uAKaaJfY0BEumTI3H56sRCecSp
+            GxIcQKuVcV6lnr46WU+mRwt1vm3ZMwKXqUAEvu/uGYMuwuqfEHuBjnfGi8FLHNP5
+            /xRKcDUqS7dYjpy44wWw3DhP/9jkGQ/TY+dCCu2hVH1XycJoJp3IWeDYspIFn77S
+            XgF3/HdDO3hwsOoje1AtJRZca5yqukocJ/U2yLN5gXkkCQc/8J+bamlkPxWX80Yo
+            cBkPGETjtQqTH5XCnEhddn2D6SMnHktMfxOtRarGExZRz6S/gASNavQZt7AoZhc=
+            =O41M
+            -----END PGP MESSAGE-----
+        created_at: '2021-10-21T00:28:49Z'
+    lastmodified: '2021-10-21T00:28:49Z'
+    mac: ENC[AES256_GCM,data:YJNqLKyL/n1OPDPxR04YurinEcsbdcwU5LDtgKtieCQp+BQkoYtGRcGowD9339SvE23USS7aQ0CV4buW6lGe47mC1C1YE1QvRb1Aqd6o3lXiIihb1GhHkvCcXxp1Uh3JZFW/p2eKXOQGKvZZJDXdieW0nYWuvvW71pNkURch36Q=,iv:2SjqO/8RR/j1CcKe8fO2UKNTGY+sSoY2Oh+GS+y/eHM=,tag:incHudWoQMk2wFb9PNOtrQ==,type:str]
