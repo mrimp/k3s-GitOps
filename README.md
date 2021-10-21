@@ -15,6 +15,8 @@ _... managed with Flux and Renovate_ :robot:
 [![k3s](https://img.shields.io/badge/k3s-v1.21.2-brightgreen?style=for-the-badge&logo=kubernetes&logoColor=white)](https://k3s.io/)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white&style=for-the-badge)](https://github.com/pre-commit/pre-commit)
 [![renovate](https://img.shields.io/badge/renovate-enabled-brightgreen?style=for-the-badge&logo=renovatebot&logoColor=white)](https://github.com/renovatebot/renovate)
+[![Home-Internet](https://img.shields.io/uptimerobot/status/m789505035-c112a2c8baa014b335cd2dc6?color=important&label=home%20internet&style=flat-square&logo=opnSense&logoColor=white)](https://uptimerobot.com)
+[![My-Plex](https://img.shields.io/uptimerobot/status/m789505068-458b5feff4cb6b7ed4904fe1?logo=plex&logoColor=white&color=important&label=my%20plex&style=flat-square)](https://plex.tv)
   
 </div>
 
