@@ -20,9 +20,6 @@ _... managed with Flux and Renovate_ :robot:
 
 <div align="center">
 
-[![Home-Internet](https://img.shields.io/uptimerobot/status/m784591389-ddbc4c84041a70eb6f6a3fb4?color=important&label=home%20internet&style=flat-square&logo=opnSense&logoColor=white)](https://uptimerobot.com)
-[![My-Plex](https://img.shields.io/uptimerobot/status/m784591338-cbf3205bc18109108eb0ea8e?logo=plex&logoColor=white&color=important&label=my%20plex&style=flat-square)](https://plex.tv)
-
 </div>
 
 ---
