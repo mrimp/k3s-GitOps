@@ -1,0 +1,31 @@
+kind: ENC[AES256_GCM,data:NuLi9Bqs,iv:maoDHHgAddrjTn6LM1f/HQdotyDMR2gcdpggxJnyYEQ=,tag:oFFGkPF4TecNn+T2lpU+Tw==,type:str]
+ansible_user: ENC[AES256_GCM,data:l8g=,iv:gNh4hAqXht21ekBxNiznrxS+p4i9+bVM/Mdc0kBIjoM=,tag:ok9Lz4X1ivo/W70fSFL6SQ==,type:str]
+ansible_become_pass: ENC[AES256_GCM,data:1uxxPOqic7w=,iv:IB0iRzwJgxcNO/16NyYOfhOsOs5WMBALpI2dsfeMk1w=,tag:KJZvNV2mZ51tqzdl0bOYSQ==,type:str]
+sops:
+    attention: This section contains key material that should only be modified with
+        extra care. See `sops -h`.
+    version: '1.18'
+    unencrypted_suffix: _unencrypted
+    pgp:
+    -   fp: 5ED5AC4897B3E2EB
+        enc: |
+            -----BEGIN PGP MESSAGE-----
+
+            hQIMAyH4Jv2F6yUtAQ//a42aTwttrdn/dBVQ80wx0X0WkoFU7ZEl26HZgFqniW/O
+            PvyuiJvnlkCCY6Dn7rITjwkAZXnLwHMApKMwYGDTaVbttsT4H9mr4w2BsweHGyP8
+            4uyjlZFhjdtjKbCqaJezN7CXCW5YSa45HszaDef1kuNPDWYVk0M5LuOb5y93GFjE
+            inp0ICp4dcActdlCsWx/FIEB44CN44CocFQ3kfHVxRz9cAYzMeJm+MQbVqyuuNJx
+            CsIoRPULICZ3CHpFjq/3YwLg2zubTRavdk0TcOvjYWQII/6iIxQdx/0gLC0ANw9H
+            u4GMj+60VfWpHUiArxAyxfZyZp8OPiyzTSJTJZkpJzNgeJq2dcJYh5cjwznidngA
+            i6Kr6qpHjyKd1cwdIJDkRD9XpcQAoKNNS6uALquUx1FatEI8zcSIDY0bC12BbK7I
+            M4I7szLE4b4ShTJyS8694M85jyDiCLyZyKheAI/fG2Z7AYOw8Yt3fKwi0QKf19B5
+            rr2KvYqGxikSuqn0m2hCru+REW9qWYg1j2kD0YyK/TBYLd1TIwGifsRp/S2eUTUt
+            qFrvjec5c/2mrgMBCkYys3Z2mdqeVeuahS7FJH/AOR6vSr4kmA4Z5sP1WBtRIDVt
+            Eeg1QvjpmrgWxYBZriFtXJUPKpo7wCPgcVod8s8jVLXDHPGOI9Ak3h+wPjck/G7S
+            XgHDz+HLvyIomLDi2VTJ3WmG6SfHL+BEfoDZU1ZU8ak8/K/jpf2rWs5I9rgbBpnK
+            wGmIQoXct5rCLAAMMNhTrk3pkP+zoE8woK6S2myBwTchWygdM2UpuG7vqtug5z4=
+            =EJVS
+            -----END PGP MESSAGE-----
+        created_at: '2021-10-22T02:03:17Z'
+    lastmodified: '2021-10-22T02:03:17Z'
+    mac: ENC[AES256_GCM,data:rOfqr8+53QgwFF1WqLZJvQDauQj9a6SMYdMiXSVruS8qlT80rni91mysm2WmJk+4FsSUfwmnEI05PggKs5hvbGHc089SOR1G3s2YWqKAwVxnDZQsg6/AiUbXYdYLk/UAoZwT0Fh0KFoLmLb9Y4jVyqB+/q2Eq6Gx6QmI+TE9LqU=,iv:svvQzzTojWJETckhN+gaUqwkLg15BvpoZNpcoAj3un4=,tag:7FjncrCW3EDVetZ2NsdDOA==,type:str]
