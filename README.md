@@ -54,6 +54,10 @@ This is home to my personal Kubernetes cluster. [Flux](https://github.com/fluxcd
 
 Rancher is a complete software stack for teams adopting containers. It addresses the operational and security challenges of managing multiple Kubernetes clusters, while providing DevOps teams with integrated tools for running containerized workloads.
 
+A little Rancher Grafana Eye Candy...
+
+![grafana](https://i.imgur.com/ofSFE6m.png)
+
 
 ## :handshake:&nbsp; Community
 
