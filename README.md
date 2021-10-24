@@ -50,6 +50,10 @@ _... managed with Flux and Renovate_ :robot:
 
 This is home to my personal Kubernetes cluster. [Flux](https://github.com/fluxcd/flux2) watches this Git repository and makes the changes to my cluster based on the manifests in the [cluster](./cluster/) directory. [Renovate](https://github.com/renovatebot/renovate) also watches this Git repository and creates pull requests when it finds updates to Docker images, Helm charts, and other dependencies.
 
+![rancher](https://i.imgur.com/o1DMXE4.png)
+
+Rancher is a complete software stack for teams adopting containers. It addresses the operational and security challenges of managing multiple Kubernetes clusters, while providing DevOps teams with integrated tools for running containerized workloads.
+
 
 ## :handshake:&nbsp; Community
 
