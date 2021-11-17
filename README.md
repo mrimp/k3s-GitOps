@@ -26,6 +26,12 @@ _... managed with Flux and Renovate_ :robot:
 
 </div>
 
+<div>
+  
+<img src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg" align="center" width="144px" height="144px"/>
+
+</div>
+
 ## :wrench:&nbsp; Workloads (by namespace)
 
 * [cert-manager](https://github.com/jetstack/cert-manager)
