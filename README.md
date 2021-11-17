@@ -26,9 +26,9 @@ _... managed with Flux and Renovate_ :robot:
 
 </div>
 
-<div>
+<div align="center">
   
-<img src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg" align="center" width="144px" height="144px"/>
+<img src="https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg" align="center" width="216px" height="216px"/>
 
 </div>
 
