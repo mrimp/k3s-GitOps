@@ -1,4 +1,5 @@
 {
+  "dependencyDashboard": true,
   "rangeStrategy": "pin",
   "ignorePaths": ["examples/**"],
   "packageRules": [{
