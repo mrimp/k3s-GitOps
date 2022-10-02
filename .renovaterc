@@ -1,16 +1,9 @@
 {
-  "labels": ["dependencies"],
-  "packageRules": [
-    {
-      "matchPackagePatterns": ["eslint"],
-      "labels": ["linting"]
-    },
-    {
-      "matchDepTypes": ["optionalDependencies"],
-      "addLabels": ["optional"]
-    },
-    {
-      "extends": ["config:base", ":dependencyDashboard"]
-    }
-  ]
+  "rangeStrategy": "pin",
+  "ignorePaths": ["examples/**"],
+  "packageRules": [{
+    "packagePatterns": ["^angular.*"],
+    "groupName": "angular",
+    "automerge": true
+  }]
 }
