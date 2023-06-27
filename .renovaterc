@@ -1,10 +1,6 @@
 {
-  "dependencyDashboard": true,
-  "rangeStrategy": "pin",
-  "ignorePaths": ["examples/**"],
-  "packageRules": [{
-    "packagePatterns": ["^angular.*"],
-    "groupName": "angular",
-    "automerge": true
-  }]
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:base"
+  ]
 }
