@@ -23,25 +23,25 @@ provider "registry.terraform.io/carlpett/sops" {
 }
 
 provider "registry.terraform.io/cloudflare/cloudflare" {
-  version     = "5.6.0"
-  constraints = "5.6.0"
+  version     = "5.8.4"
+  constraints = "5.8.4"
   hashes = [
-    "h1:3xM0tbxblbFwasF057iUX4Hf1PlSWPAch/b8CQSjnto=",
-    "h1:YJFq/LeaDoqxHF5Js46ZqCeYlzaG9D+V6G39h/vZAkw=",
-    "h1:a9Q9FlgltLKiv3Z4pOK2R5Dq32j0Df/EaDaMOs2J+Cg=",
-    "h1:cWfcC8Srpt2mHUEJClIJM63iqQ1XtWG4aEm1vZ5ExPw=",
-    "h1:dff7RBkvf+9ZY/NyP7HdwbNNUD7WDJRMWP4Qs7kgQc4=",
-    "h1:keTtTzm6LBd67ljVIRiWIcbnskw/dqMg30MufE6gW7s=",
-    "h1:tnXQ5bXv2z0le477irk1s6HGKMzFfGicSt1zjw0bi3I=",
-    "h1:xSzk7DtkMA1e51SIkV540yqY4iAapxB3cw7G1HjnQDQ=",
-    "zh:0f7ad515a0ac56de9ee00f24aadc64773bc9d186c7673672f7c1fd1971e7cc73",
-    "zh:1c7288a4d654860b81ff0d5366f7e7037c144cbd3d8f34d4ba4efd444c01085d",
-    "zh:304ba493a57cf1587f9878999144ee3ff65393ae577ea0304f94cb11e81d2a64",
-    "zh:605509ada3e19777cdd2d4c4e1f99e4b43d8c9e661083f32341d75dc450390ff",
-    "zh:753d2e607cc11cf4f08b9f5b161e2050f2f17bf200f2a6ba1224893b1cdcc476",
-    "zh:b0d557ea5e9a384b844d1d50d9627e61318583004d1a1113dce64c984267a139",
-    "zh:db8f65cc2ae10f1c3cb9e64e1e89a9222fb81ac6f832e796d0369596f1e74713",
-    "zh:f8057a7c670e038ec1a0fd4a490ad352cf94ac82db35f0e525d24503ceb511d2",
+    "h1:3Mon2Qsx2mp/tlGd4LGx3/6HcO5QGs/L8t77jgmDleY=",
+    "h1:GabtJqbUWrSHjVM6/6pH/Ao/+gUXqlQ1qBjeKsZd1/A=",
+    "h1:JGjM9zmhspYRL82m/XYaD5H9OzFSgSadNWhYXMq+ojI=",
+    "h1:KKDkASiiJZ0z35eJYZz1rxDm1nRuHzQko7+np5eMI0k=",
+    "h1:N3tFViheIJA8nGmVFjmwPAtPc5GRox8nzOB/wFDv0JM=",
+    "h1:hpb2//Bc/ZbK0aSS6G6Lp8hXzIbFVpl/2uguS5Q1Q10=",
+    "h1:ihbA9kw+RRkVjCts0NLwt+eQhrJloCH4JDfXYYCkNlA=",
+    "h1:nVjF/U5Ovmx6ymLP6zUbgElPCg0F7IRgSjHYcqhmwJ4=",
+    "zh:0e3ffc026d07699189406d7471f6a65e66a35065ee26b7cded6dfff0f5c22fba",
+    "zh:2819e632d8f5437ee8cafbd35a0b44b9ea685aabae95536da345f012b2cbd193",
+    "zh:3ec56bd9e5bcc8bb2012651fa3ad837934603aacdbbb06c2d579681398e993b2",
+    "zh:56f4acef08aee4ba0fca8830b341d46658c6b4f83e55a8badbf4324156d6edd7",
+    "zh:5a8481a1b1b756f5d13c44ae1c89fd04e24e00e85a1e182a80c593130e4061a5",
+    "zh:af2e89d30aed52d0f0477a782303605f58b9868ce6868449c0a2ee1cb1ff825b",
+    "zh:d2622f857b37386e9d58fe9bd8391f9ef5930e3bf78b6e8b1b2b888e3dcc7be2",
+    "zh:e8dd942e2252c52dc68aa75eaeac43053e2d04b768ac9ea191b8da79b9ec4472",
     "zh:f809ab383cca0a5f83072981c64208cbd7fa67e986a86ee02dd2c82333221e32",
   ]
 }
