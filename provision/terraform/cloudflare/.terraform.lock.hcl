@@ -23,25 +23,25 @@ provider "registry.terraform.io/carlpett/sops" {
 }
 
 provider "registry.terraform.io/cloudflare/cloudflare" {
-  version     = "5.16.0"
-  constraints = "5.16.0"
+  version     = "5.26.0"
+  constraints = "5.26.0"
   hashes = [
-    "h1:Aj3MnBvyKkz2hXhK851Kr4SQfp864BS/fsjcT1IHkpQ=",
-    "h1:E6q6NhXcAEbyZjfuTuHv+dumzeNbsPkWOebTJ4v3cg4=",
-    "h1:F1VwtsDmYrBEKe0XfgENBunyJVtLHRQODqFYCU5pkwc=",
-    "h1:HEaSG6tzNK9A2tQUPWgN9UxQ2Ayfw+H8v+YT8qoEm6U=",
-    "h1:UQvmPpaoNQTASvBnFz7rwT5xt/REMJrqPDjHkQiBVwQ=",
-    "h1:c7Ys/nrTbSbjzSoICdSU0lJCBLV12Gn9De7BhfUaL2o=",
-    "h1:iyIjUQIxl6vMTH4zuhMhmmE6RjRNVbBTA/m2LbmF+1U=",
-    "h1:tqP1AbDcg49BDrdVBAtvbiMD9ChOodVtKoXcneOlm00=",
-    "zh:0e21bfc6d4698b7e7d7b39b1635c5e1dac49b9e39e205b38d9d879e31aa63002",
-    "zh:269c80bdf54e34a80e01e742ab2705c56c360cece256348301a69b316e735dca",
-    "zh:32420d3ebf3a18f5d4d259390e4c98f0b31e4d6f703572a0dafaf1af8361bd14",
-    "zh:45c73f16b19161ed2ae2ec6c50041045df23b0a124701973ed7f0297c16bacbe",
-    "zh:5ca4e4dafb12d78afa0ca9150236b0a2e64a3d65045f7347efc9253edef5276d",
-    "zh:636d1456d8d604bace12ebcf4d3b188a971bb98b1891368ae87c86ac6d561c26",
-    "zh:d26e340801292ad44a4fe493a2b254147c48e01303e81630678edf9ef8c06bbb",
-    "zh:ed564f43bd296bf0d8f13aee4bdd5c0e0c3376683911f2b64e1e42891232334f",
+    "h1:82W7+4Po3jiyESxV7UpEzBYFwHjz7gdmKW+HXkQpJeI=",
+    "h1:cn9FioXphqL0gQ9ICt+nhylZm6GBWPm10v20nOQeqgg=",
+    "h1:j5Byzynh4T8cF+9KghL0lf33+Rq3eGVAn+DjZHoMSUo=",
+    "h1:jpYtqXvoFNQ32xwygEkJI0i21nJ4YF2MndmBJeCTXZ0=",
+    "h1:lG5KNmQ4ZsRkgzADUtRO3OInJ2fUJlQg/030NxQDFLI=",
+    "h1:lRQqwQ3ZeXM50BBP/GX6762mqRQqLaRv9zdbpUmlycU=",
+    "h1:nFe2g1b1IlyrjelclCpPqxBsPdWv7AzWjjNlDbad6CY=",
+    "h1:yCyN0Oq4xzjrhupMzBnlcNc1HMeqhSM1Ia6bp7I/+uU=",
+    "zh:5935d0ea1abc7cfeeb6f6c80b1b5c51c2d72f11e3d0ee273a9bd6267c0821e6d",
+    "zh:759bb1cc0e6daeb54def90f13357e8d09ed0ff7101d13726be9f42504d6ffad2",
+    "zh:7e109aa1e20dccef154b680363451e9197ed31ece5bd91b53b0a1a512943b852",
+    "zh:83b0b43e16d60926fd96227c5902ad104ab11c1b1c42465aaffb61a393d9c12b",
+    "zh:845c84b1ca907678515ed8843ea1d7a91b3442af4d8e047be754b9769a3eaf2e",
+    "zh:9012426308af3a651c2a1f612cb884774cab4009a29fef67b3e056fbf16e4c87",
+    "zh:c6cad449e522ccd4bad73d41671ab2c4461097d8506f44026a056320daf4a462",
+    "zh:f199deaba10e25a5d4ebd76bc1c5688ae35a38dab4162fbc7cdef20599e6b562",
     "zh:f809ab383cca0a5f83072981c64208cbd7fa67e986a86ee02dd2c82333221e32",
   ]
 }
